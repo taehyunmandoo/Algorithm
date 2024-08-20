@@ -1,3 +1,6 @@
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
 N = int(input()) 
 N_list = list(map(int, input().split()))
 M = int(input()) 
@@ -35,3 +38,15 @@ for value in M_list:
         print(last - first + 1, end=' ')
     else:
         print(0, end=' ')
+=======
+>>>>>>> e2b10cd (Initial commit)
+N = int(input())
+N_list = list(map(int,input().split()))
+M = int(input())
+M_list = list(map(int,input().split()))
+N_list.sort()
+
+<<<<<<< HEAD
+=======
+>>>>>>> 702c8ad (Initial Commit)
+>>>>>>> e2b10cd (Initial commit)
